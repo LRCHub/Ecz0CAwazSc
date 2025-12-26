@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "EYES ON YOU",
+  "base_artist": "Kana Nishino",
+  "createdAt": "2025-12-26T07:22:30.713472Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Eyes On You",
+      "artist": "Chase Rice",
+      "has_synced": true,
+      "path": "select/01_Eyes_On_You_Chase_Rice.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "History Has Its Eyes On You",
+      "artist": "Mystery Jets",
+      "has_synced": true,
+      "path": "select/02_History_Has_Its_Eyes_On_You_Mystery_Jets.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "All Eyes on You",
+      "artist": "Londonbeat",
+      "has_synced": false,
+      "path": "select/03_All_Eyes_on_You_Londonbeat.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Got My Eyes on You",
+      "artist": "Canned Heat & John Lee Hooker",
+      "has_synced": false,
+      "path": "select/04_I_Got_My_Eyes_on_You_Canned_Heat_&_John_Lee_Hooker.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Eyes On You",
+      "artist": "Automatic Loveletter",
+      "has_synced": true,
+      "path": "select/05_Eyes_On_You_Automatic_Loveletter.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "All Eyes on You",
+      "artist": "Philip Selway",
+      "has_synced": true,
+      "path": "select/06_All_Eyes_on_You_Philip_Selway.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Eyes on You",
+      "artist": "Sara Bareilles",
+      "has_synced": true,
+      "path": "select/07_Eyes_on_You_Sara_Bareilles.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Eyes on You (Live from the Hollywood Bowl)",
+      "artist": "Sara Bareilles",
+      "has_synced": true,
+      "path": "select/08_Eyes_on_You_(Live_from_the_Hollywood_Bowl)_Sara_Bareilles.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Got My Eyes on You",
+      "artist": "John Norum",
+      "has_synced": false,
+      "path": "select/09_Got_My_Eyes_on_You_John_Norum.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Eyes on You",
+      "artist": "Veruca Salt",
+      "has_synced": true,
+      "path": "select/10_Eyes_on_You_Veruca_Salt.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hurting Kind (I've Got My Eyes On You)",
+      "artist": "Robert Plant",
+      "has_synced": true,
+      "path": "select/11_Hurting_Kind_(I've_Got_My_Eyes_On_You)_Robert_Plant.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I've Got My Eyes on You",
+      "artist": "Gene Vincent",
+      "has_synced": false,
+      "path": "select/12_I've_Got_My_Eyes_on_You_Gene_Vincent.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "EYES ON YOU",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_01_EYES_ON_YOU_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "EYES ON YOU",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_02_EYES_ON_YOU_西野_カナ.txt"
+    }
+  ]
+}
